@@ -1,0 +1,44 @@
+c:\users\marco\documents\visual studio 2015\Projects\ForschungsArbeit\ForschungsArbeit\bin\Bot Application.dll.config
+c:\users\marco\documents\visual studio 2015\Projects\ForschungsArbeit\ForschungsArbeit\bin\Bot Application.dll
+c:\users\marco\documents\visual studio 2015\Projects\ForschungsArbeit\ForschungsArbeit\bin\Bot Application.pdb
+c:\users\marco\documents\visual studio 2015\Projects\ForschungsArbeit\ForschungsArbeit\bin\Autofac.dll
+c:\users\marco\documents\visual studio 2015\Projects\ForschungsArbeit\ForschungsArbeit\bin\Chronic.dll
+c:\users\marco\documents\visual studio 2015\Projects\ForschungsArbeit\ForschungsArbeit\bin\Microsoft.Bot.Builder.Autofac.dll
+c:\users\marco\documents\visual studio 2015\Projects\ForschungsArbeit\ForschungsArbeit\bin\Microsoft.Bot.Builder.dll
+c:\users\marco\documents\visual studio 2015\Projects\ForschungsArbeit\ForschungsArbeit\bin\Microsoft.Bot.Connector.dll
+c:\users\marco\documents\visual studio 2015\Projects\ForschungsArbeit\ForschungsArbeit\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+c:\users\marco\documents\visual studio 2015\Projects\ForschungsArbeit\ForschungsArbeit\bin\Microsoft.Rest.ClientRuntime.dll
+c:\users\marco\documents\visual studio 2015\Projects\ForschungsArbeit\ForschungsArbeit\bin\Microsoft.WindowsAzure.Configuration.dll
+c:\users\marco\documents\visual studio 2015\Projects\ForschungsArbeit\ForschungsArbeit\bin\Newtonsoft.Json.dll
+c:\users\marco\documents\visual studio 2015\Projects\ForschungsArbeit\ForschungsArbeit\bin\System.IdentityModel.Tokens.Jwt.dll
+c:\users\marco\documents\visual studio 2015\Projects\ForschungsArbeit\ForschungsArbeit\bin\System.Net.Http.Formatting.dll
+c:\users\marco\documents\visual studio 2015\Projects\ForschungsArbeit\ForschungsArbeit\bin\System.Web.Http.dll
+c:\users\marco\documents\visual studio 2015\Projects\ForschungsArbeit\ForschungsArbeit\bin\System.Web.Http.WebHost.dll
+c:\users\marco\documents\visual studio 2015\Projects\ForschungsArbeit\ForschungsArbeit\bin\Autofac.xml
+c:\users\marco\documents\visual studio 2015\Projects\ForschungsArbeit\ForschungsArbeit\bin\Microsoft.Bot.Builder.xml
+c:\users\marco\documents\visual studio 2015\Projects\ForschungsArbeit\ForschungsArbeit\bin\Microsoft.Bot.Builder.Autofac.xml
+c:\users\marco\documents\visual studio 2015\Projects\ForschungsArbeit\ForschungsArbeit\bin\Microsoft.Bot.Connector.xml
+c:\users\marco\documents\visual studio 2015\Projects\ForschungsArbeit\ForschungsArbeit\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+c:\users\marco\documents\visual studio 2015\Projects\ForschungsArbeit\ForschungsArbeit\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+c:\users\marco\documents\visual studio 2015\Projects\ForschungsArbeit\ForschungsArbeit\bin\Microsoft.WindowsAzure.Configuration.xml
+c:\users\marco\documents\visual studio 2015\Projects\ForschungsArbeit\ForschungsArbeit\bin\Newtonsoft.Json.xml
+c:\users\marco\documents\visual studio 2015\Projects\ForschungsArbeit\ForschungsArbeit\bin\System.IdentityModel.Tokens.Jwt.pdb
+c:\users\marco\documents\visual studio 2015\Projects\ForschungsArbeit\ForschungsArbeit\bin\System.IdentityModel.Tokens.Jwt.xml
+c:\users\marco\documents\visual studio 2015\Projects\ForschungsArbeit\ForschungsArbeit\bin\System.Net.Http.Formatting.xml
+c:\users\marco\documents\visual studio 2015\Projects\ForschungsArbeit\ForschungsArbeit\bin\System.Web.Http.xml
+c:\users\marco\documents\visual studio 2015\Projects\ForschungsArbeit\ForschungsArbeit\bin\System.Web.Http.WebHost.xml
+c:\users\marco\documents\visual studio 2015\Projects\ForschungsArbeit\ForschungsArbeit\bin\ar\Microsoft.Bot.Builder.resources.dll
+c:\users\marco\documents\visual studio 2015\Projects\ForschungsArbeit\ForschungsArbeit\bin\cs\Microsoft.Bot.Builder.resources.dll
+c:\users\marco\documents\visual studio 2015\Projects\ForschungsArbeit\ForschungsArbeit\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+c:\users\marco\documents\visual studio 2015\Projects\ForschungsArbeit\ForschungsArbeit\bin\en\Microsoft.Bot.Builder.resources.dll
+c:\users\marco\documents\visual studio 2015\Projects\ForschungsArbeit\ForschungsArbeit\bin\es\Microsoft.Bot.Builder.resources.dll
+c:\users\marco\documents\visual studio 2015\Projects\ForschungsArbeit\ForschungsArbeit\bin\fa\Microsoft.Bot.Builder.resources.dll
+c:\users\marco\documents\visual studio 2015\Projects\ForschungsArbeit\ForschungsArbeit\bin\fr\Microsoft.Bot.Builder.resources.dll
+c:\users\marco\documents\visual studio 2015\Projects\ForschungsArbeit\ForschungsArbeit\bin\ja\Microsoft.Bot.Builder.resources.dll
+c:\users\marco\documents\visual studio 2015\Projects\ForschungsArbeit\ForschungsArbeit\bin\ru\Microsoft.Bot.Builder.resources.dll
+c:\users\marco\documents\visual studio 2015\Projects\ForschungsArbeit\ForschungsArbeit\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+c:\users\marco\documents\visual studio 2015\Projects\ForschungsArbeit\ForschungsArbeit\obj\Debug\ForschungsArbeit.csprojResolveAssemblyReference.cache
+c:\users\marco\documents\visual studio 2015\Projects\ForschungsArbeit\ForschungsArbeit\obj\Debug\Bot Application.dll
+c:\users\marco\documents\visual studio 2015\Projects\ForschungsArbeit\ForschungsArbeit\obj\Debug\Bot Application.pdb
+C:\Users\Marco\documents\visual studio 2015\Projects\ForschungsArbeit\ForschungsArbeit\bin\ChatBotData.dll
+C:\Users\Marco\documents\visual studio 2015\Projects\ForschungsArbeit\ForschungsArbeit\bin\ChatBotData.pdb
